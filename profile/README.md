@@ -35,15 +35,6 @@ Infraestructura: AWS (Elastic Beanstalk, RDS, S3), Electron
 
 Otros: Cloudinary, Bots de Telegram, automatizaciones con n8n
 
-📁 Estructura general
-bash
-Copiar
-Editar
-.
-├── prl-app/                # Aplicación de prevención de riesgos laborales
-├── fichajes-nfc/           # Terminal para fichajes con lector NFC
-├── informes/               # Generación de informes Excel/PDF
-└── README.md               # Este archivo
 📣 Nota importante
 Este repositorio está en constante evolución. El desarrollo de software en TSI es una línea emergente que tiene como objetivo acompañar nuestra actividad principal con herramientas digitales a medida, sin depender de soluciones genéricas.
 
@@ -52,5 +43,5 @@ Para más información técnica o colaboraciones internas:
 
 Responsable de desarrollo: Carlos Gorostiaga
 
-Web corporativa: https://www.tsiingenieria.es
+Web corporativa: https://www.tsigrupo.com
 
